@@ -26,7 +26,7 @@ for (const sale of Object.values(salesByWeek)) {
 }
 
 /*
-[ ] Your first task is to use object methods 
+[x] Your first task is to use object methods 
 to match the value of all properties of the sales_agent object 
 in each sale against the input from Randall. 
 
